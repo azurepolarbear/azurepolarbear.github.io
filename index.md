@@ -4,4 +4,4 @@
 
 # Projects
 
-# Twitch Stream Notes
+# [Twitch Stream Notes](https://azurepolarbear.github.io/twitch-stream-notes/)
