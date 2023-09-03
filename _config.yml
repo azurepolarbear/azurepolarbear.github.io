@@ -4,3 +4,6 @@ plugins:
 - jekyll-remote-theme
 
 title: azurepolarbear
+description: Generative Artist making NFTs with code. Adjunct Instructor at SMU's Center of Creative Computation.
+logo: assets/img/logo.png
+show_downloads: false
