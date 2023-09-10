@@ -1,4 +1,4 @@
-# About azurepolarbear
+# about azurepolarbear
 
 Hello! I’m azurepolarbear! I make non-fungible tokens (NFTs)! These NFTs may be a little different from what you're used to. They’re not profile pictures (PFPs); or video game assets; or unique, singular pieces of art (1 of 1). The NFTs I love to create are generative art, art created using an algorithm that incorporates randomness. My NFTs are the outputs of creative code that I’ve written.
 

@@ -1,7 +1,7 @@
 # azurepolarbear
 
-# [About azurepolarbear](https://azurepolarbear.github.io/about)
+# [about azurepolarbear](https://azurepolarbear.github.io/about)
 
-# Projects
+# projects
 
-# [Twitch Stream Notes](https://azurepolarbear.github.io/twitch-stream-notes/)
+# [twitch stream notes](https://azurepolarbear.github.io/twitch-stream-notes/)
