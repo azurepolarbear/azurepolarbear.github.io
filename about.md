@@ -1,6 +1,6 @@
 # about azurepolarbear
 
-Hello! I’m azurepolarbear! I make non-fungible tokens (NFTs)! These NFTs may be a little different from what you're used to. They’re not profile pictures (PFPs); or video game assets; or unique, singular pieces of art (1 of 1). The NFTs I love to create are generative art, art created using an algorithm that incorporates randomness. My NFTs are the outputs of creative code that I’ve written.
+Hello! I’m azurepolarbear! I make non-fungible tokens (NFTs)! These NFTs may be a little different from what you're used to. They’re not profile pictures (PFPs); or video game assets; or unique, singular pieces of art (1 of 1). The NFTs I love to create are generative art, art created using an algorithm that incorporates randomness. My NFTs are the outputs of creative code that I’ve written. Please keep in mind that the information I provide regarding blockchain, cryptocurrencies, and NFTs is <u>**NOT** financial advice</u>.
 
 Each time you run my code, you get a unique result. When you purchase one of my NFTs, you purchase your own unique output of my code. Not only that, but you can run the code and interact with the program in your web browser!
 
