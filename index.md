@@ -17,3 +17,5 @@
 ----
 
 # [All Posts](./all-posts.md)
+
+# [All Tags](./all-tags.md)
