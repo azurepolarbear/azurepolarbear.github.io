@@ -1,4 +1,4 @@
-{%- assign tag_name = "Instagram Reel" -%}
+{%- assign tag_name = "Color Flow" -%}
 {%- assign tag_match = tag_name | downcase -%}
 
 <h1>Posts by Tag: {{ tag_name }}</h1>
