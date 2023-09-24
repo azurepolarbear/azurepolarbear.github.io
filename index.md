@@ -8,7 +8,7 @@
 
 ----
 
-# Latest Post
+# latest post
 
 {% for post in site.posts limit:1 %}
   <h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
@@ -16,6 +16,6 @@
 
 ----
 
-# [All Posts](./all-posts.md)
+# [all posts](./all-posts.md)
 
-# [All Tags](./all-tags.md)
+# [all tags](./all-tags.md)
