@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-09-24 10:02:00 -0000
 title: "Twitter Post: Sunday, September 24, 2023"
-tags: 
+tags:
   - Twitter
   - Color Flow
   - fxhash

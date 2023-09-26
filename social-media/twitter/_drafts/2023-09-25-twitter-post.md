@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-09-25 17:11:00 -0000
 title: "Twitter Post: Monday, September 25, 2023"
-tags: 
+tags:
   - Twitter
   - Gradient Graphs
   - fxhash

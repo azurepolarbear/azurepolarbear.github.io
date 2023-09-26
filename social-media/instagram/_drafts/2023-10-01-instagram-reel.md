@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-10-01 13:20:00 -0000
 title: "Instagram Reel: Sunday, October 1, 2023"
-tags: 
+tags:
   - Instagram
   - Instagram Reel
   - Color Flow

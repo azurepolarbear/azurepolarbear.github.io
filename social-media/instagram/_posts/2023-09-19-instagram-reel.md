@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-09-19 23:19:00 -0000
 title: "Instagram Reel: Tuesday, September 19, 2023"
-tags: 
+tags:
   - Instagram
   - Instagram Reel
   - Traveling Triangles

@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-09-28 19:35:00 -0000
 title: "Facebook Reel: Thursday, September 28, 2023"
-tags: 
+tags:
   - Facebook
   - Facebook Reel
   - Gradient Graphs

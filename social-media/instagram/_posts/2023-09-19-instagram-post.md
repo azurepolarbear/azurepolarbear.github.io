@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-09-19 21:40:00 -0000
 title: "Instagram Post: Tuesday, September 19, 2023"
-tags: 
+tags:
   - Instagram
   - Gradient Graphs
   - fxhash

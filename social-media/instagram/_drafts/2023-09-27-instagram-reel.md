@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-09-27 11:10:00 -0000
 title: "Instagram Reel: Wednesday, September 27, 2023"
-tags: 
+tags:
   - Instagram
   - Instagram Reel
   - Gradient Graphs

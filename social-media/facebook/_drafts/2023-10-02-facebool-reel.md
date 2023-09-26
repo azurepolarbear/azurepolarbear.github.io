@@ -3,7 +3,7 @@ layout: post
 author: azurepolarbear
 date: 2023-10-02 16:10:00 -0000
 title: "Facebook Reel: Monday, October 2, 2023"
-tags: 
+tags:
   - Facebook
   - Facebook Reel
   - Traveling Triangles
