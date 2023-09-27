@@ -1,7 +1,7 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2023-10-02 16:10:00 -0000
+date: 2023-10-02 13:10:00 -0000
 title: "Facebook Reel: Monday, October 2, 2023"
 tags:
   - Facebook
