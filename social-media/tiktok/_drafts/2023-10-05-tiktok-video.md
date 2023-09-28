@@ -1,8 +1,8 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2023-09-30 12:00:00 -0000
-title: "TikTok Video: Saturday, September 30, 2023"
+date: 2023-10-05 21:00:00 -0000
+title: "TikTok Video: Thursday, October 5, 2023"
 tags:
   - TikTok
   - Color Flow

@@ -1,8 +1,8 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2023-09-28 19:35:00 -0000
-title: "Facebook Reel: Thursday, September 28, 2023"
+date: 2023-10-17 19:35:00 -0000
+title: "Facebook Reel: Tuesday, October 17, 2023"
 tags:
   - Facebook
   - Facebook Reel
