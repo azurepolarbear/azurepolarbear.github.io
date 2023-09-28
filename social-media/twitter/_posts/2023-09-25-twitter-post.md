@@ -9,7 +9,7 @@ tags:
   - fxhash
 ---
 
-## TODO: Embed Twitter Post
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week, we’re going to get an output of Gradient Graphs every day! <a href="https://twitter.com/hashtag/fxhash?src=hash&amp;ref_src=twsrc%5Etfw">#fxhash</a> <br><br>I love these algorithms, but I can’t wait until I get to show y’all output from some new code. It’s all in the works! 💻 <a href="https://t.co/9KMuNr0Iv8">pic.twitter.com/9KMuNr0Iv8</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1706431345767895106?ref_src=twsrc%5Etfw">September 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ----

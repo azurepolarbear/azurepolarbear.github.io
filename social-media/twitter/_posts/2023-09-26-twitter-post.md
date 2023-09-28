@@ -9,7 +9,7 @@ tags:
   - fxhash
 ---
 
-## TODO: Embed Twitter Post
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Y’all, I love this algorithm. I don’t know why I get so emotionally attached to my code 😅 🟢🔵🟣 <a href="https://twitter.com/hashtag/fxhash?src=hash&amp;ref_src=twsrc%5Etfw">#fxhash</a> <a href="https://t.co/3kcR0Hd9xk">pic.twitter.com/3kcR0Hd9xk</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1706792086576488532?ref_src=twsrc%5Etfw">September 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ----
