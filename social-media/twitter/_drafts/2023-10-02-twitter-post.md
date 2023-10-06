@@ -13,7 +13,7 @@ tags:
 
 ## Post 1
 
-<!-- TODO: Embed Tweet #1 -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re going to try something new today! I am going to generate a new variation of one of my algorithms on <a href="https://twitter.com/hashtag/fxhash?src=hash&amp;ref_src=twsrc%5Etfw">#fxhash</a>, and then I&#39;m going to get the variations of my other algorithms using the same hash.<br><br>First up: Gradient Graphs! (1/3) <a href="https://t.co/or3uNTY4Zb">pic.twitter.com/or3uNTY4Zb</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1708912347077554383?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ----
@@ -27,7 +27,7 @@ tags:
 
 ## Post 2
 
-<!-- TODO: Embed Tweet #2 -->
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Next up: Traveling Triangles! Same hash, different code. 🟩 (2/3) <a href="https://t.co/fNucHcHPaw">pic.twitter.com/fNucHcHPaw</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1708912375871467949?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ----
@@ -41,7 +41,7 @@ tags:
 
 ## Post 3
 
-<!-- TODO: Embed Tweet #3 -->
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Last, but not least: Color Flow. This one might actually be my favorite of the three. Which one do you like the best? (3/3) <a href="https://t.co/LX55BrbFxQ">pic.twitter.com/LX55BrbFxQ</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1708912407718789447?ref_src=twsrc%5Etfw">October 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ----
