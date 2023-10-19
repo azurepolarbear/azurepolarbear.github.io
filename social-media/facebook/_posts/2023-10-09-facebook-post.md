@@ -14,8 +14,6 @@ tags:
 
 <div class="fb-post" data-href="https://www.facebook.com/azurepolarbear/posts/pfbid0SDnEsC5FcdaX4FWCYdQ7nzMCcspfgmx2cmtzmZ1vN2XRxSn76HL1geBeVyDcfhQil" data-show-text="true"></div>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fazurepolarbear%2Fposts%2Fpfbid0SXam8hNicoBzedjDS6rFwb8TJAWe5AP8z5Ha4V7ZwsW5LDW3jvt4BNWjtJe59zK8l&show_text=true" width="100%" height="700" style="border:none;overflow:hidden" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 
 ----
 
