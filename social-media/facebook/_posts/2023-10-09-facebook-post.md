@@ -12,9 +12,9 @@ tags:
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
-<div class="fb-post" data-href="https://www.facebook.com/azurepolarbear/posts/pfbid0SDnEsC5FcdaX4FWCYdQ7nzMCcspfgmx2cmtzmZ1vN2XRxSn76HL1geBeVyDcfhQil" data-show-text="true"></div>
+<div class="fb-post" data-href="https://www.facebook.com/azurepolarbear/posts/pfbid0SDnEsC5FcdaX4FWCYdQ7nzMCcspfgmx2cmtzmZ1vN2XRxSn76HL1geBeVyDcfhQil" data-show-text="true" data-width="100%"></div>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fazurepolarbear%2Fposts%2Fpfbid0SXam8hNicoBzedjDS6rFwb8TJAWe5AP8z5Ha4V7ZwsW5LDW3jvt4BNWjtJe59zK8l&show_text=true&width=500" width="500" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fazurepolarbear%2Fposts%2Fpfbid0SXam8hNicoBzedjDS6rFwb8TJAWe5AP8z5Ha4V7ZwsW5LDW3jvt4BNWjtJe59zK8l&show_text=true&width=500" width="100%" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 ----
