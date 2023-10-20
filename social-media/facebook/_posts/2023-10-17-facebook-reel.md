@@ -13,7 +13,7 @@ tags:
 <div id="fb-root"></div>
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
-<div class="fb-post" data-href="https://www.facebook.com/reel/865359788110888" data-show-text="true"></div>
+<div class="fb-video" data-href="https://www.facebook.com/reel/865359788110888" data-show-text="true" data-allowfullscreen="true" data-autoplay="true" data-show-captions="true"></div>
 
 
 ----
