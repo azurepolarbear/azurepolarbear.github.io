@@ -1,7 +1,7 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2023-10-21 18:00:00 -0000
+date: 2023-10-21 16:15:00 -0000
 title: "YouTube Short: Saturday, October 21, 2023"
 tags:
   - YouTube
