@@ -10,7 +10,7 @@ tags:
   - fxhash
 ---
 
-<!-- TODO: Embed YouTube Short -->
+<iframe width="100%" src="https://www.youtube.com/embed/ShIQP98FKF0" title="Traveling Triangles Variation (October 21, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ----
