@@ -26,3 +26,9 @@ tags:
 ## <a href="https://www.fxhash.xyz/gentk/KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr-148620" target="_blank" rel="noopener noreferrer">Moods #71 on fx(hash)</a>
 
 ## <a href="https://www.fxhash.xyz/gentk/KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr-148975" target="_blank" rel="noopener noreferrer">Moods #72 on fx(hash)</a>
+
+
+----
+
+
+Graphics created with <a href="https://snappify.com/" target="_blank" rel="noopener noreferrer">snappify</a>

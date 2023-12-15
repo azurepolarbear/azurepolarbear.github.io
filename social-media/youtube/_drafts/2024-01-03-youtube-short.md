@@ -1,15 +1,16 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2023-12-14 17:41:00 -0000
-title: "Instagram Post: Thursday, December 14, 2023"
+date: 2024-01-03 16:52:00 -0000
+title: "YouTube Short: Wednesday, January 3, 2024"
 tags:
-  - Instagram
+  - YouTube
+  - YouTube Short
   - purchases
   - fxhash
 ---
 
-<!-- TODO: Add embedded post -->
+<!-- TODO: Embed Video -->
 
 
 ----
@@ -26,6 +27,20 @@ tags:
 ## <a href="https://www.fxhash.xyz/gentk/KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr-148957" target="_blank" rel="noopener noreferrer">Paysages chromatiques B #1 on fx(hash)</a>
 
 ## <a href="https://www.fxhash.xyz/gentk/KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr-148962" target="_blank" rel="noopener noreferrer">Paysages chromatiques B #4 on fx(hash)</a>
+
+
+----
+
+
+## Music: <a href="https://www.purple-planet.com" target="_blank" rel="noopener noreferrer">https://www.purple-planet.com</a>
+
+Track Name: <a href="https://www.purple-planet.com/tracks/8-bit-heaven" target="_blank" rel="noopener noreferrer">8-Bit Heaven</a>
+
+
+----
+
+
+Video created with <a href="https://www.veed.io" target="_blank" rel="noopener noreferrer">veed.io</a>
 
 
 ----

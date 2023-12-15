@@ -1,16 +1,15 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2023-11-17 13:10:00 -0000
-title: "Facebook Reel: Friday, November 17, 2023"
+date: 2023-12-21 12:32:00 -0000
+title: "TikTok Video: Thursday, December 21, 2023"
 tags:
-  - Facebook
-  - Facebook Reel
+  - TikTok
   - Traveling Triangles
   - fxhash
 ---
 
-# TODO: Embed Facebook Reel
+<!-- TODO: Embed TikTok Post -->
 
 
 ----
