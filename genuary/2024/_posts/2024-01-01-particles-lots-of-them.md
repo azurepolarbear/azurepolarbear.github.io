@@ -8,7 +8,7 @@ tags:
   - Genuary
 ---
 
-# <a href="../1_particles/index.html" target="_blank" rel="noopener noreferrer">Run the Program</a>
+# <a href="https://azurepolarbear.github.io/genuary/2024/1_particles/index.html" target="_blank" rel="noopener noreferrer">Run the Program</a>
 
 <!-- TODO: Add a link to the source code -->
 
