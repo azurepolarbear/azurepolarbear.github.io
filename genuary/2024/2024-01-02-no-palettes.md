@@ -4,8 +4,8 @@ author: azurepolarbear
 date: 2024-01-02 12:00:00 -0000
 title: "Genuary 2024: Prompt 2 - No palettes."
 tags:
-  - genuary 2024
-  - genuary
+  - Genuary 2024
+  - Genuary
 ---
 
 # <a href="./2_no-palettes/index.html" target="_blank" rel="noopener noreferrer">Run the Program</a>
