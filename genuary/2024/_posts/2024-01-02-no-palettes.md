@@ -8,7 +8,7 @@ tags:
   - Genuary
 ---
 
-# <a href="./2_no-palettes/index.html" target="_blank" rel="noopener noreferrer">Run the Program</a>
+# <a href="../2_no-palettes/index.html" target="_blank" rel="noopener noreferrer">Run the Program</a>
 
 <!-- TODO: Add a link to the source code -->
 
@@ -18,4 +18,4 @@ This project was created with <a href="https://www.typescriptlang.org/" target="
 
 ----
 
-Learn more about Genuary at <a href="https://genuary.art/" target="_blank" rel="noopener noreferrer">genuary.art/</a>
+Learn more about Genuary at <a href="https://genuary.art/" target="_blank" rel="noopener noreferrer">genuary.art</a>
