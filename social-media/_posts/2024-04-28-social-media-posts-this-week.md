@@ -1,7 +1,7 @@
 ---
 layout: post
 author: azurepolarbear
-date: 2024-05-04 23:59:59 -9999
+date: 2024-05-01 23:59:59 -9999
 title: "Social Media Posts This Week: April 28, 2024 - May 4, 2024"
 tags:
   - social media
@@ -16,14 +16,18 @@ tags:
 
 [Sunday, April 28, 2024](#sunday-april-28-2024)
   - [Art Thread Day!](#art-thread-day)
+  - [Sunday's X Replies](#sundays-x-replies)
 
 [Monday, April 29, 2024](#monday-april-29-2024)
+  - [Awesome Stickers](#awesome-stickers)
 
 [Tuesday, April 30, 2024](#tuesday-april-30-2024)
 
 [Wednesday, May 1, 2024](#wednesday-may-1-2024)
+  - [Wednesday's X Replies](#wednesdays-x-replies)
 
 [Thursday, May 2, 2024](#thursday-may-2-2024)
+  - [Thursday's X Replies](#thursdays-x-replies)
 
 [Friday, May 3, 2024](#friday-may-3-2024)
 
@@ -41,14 +45,46 @@ tags:
 
 ### [See the Full Thread](https://azurepolarbear.github.io/social-media/2024-04/2024-04-28/x/art-thread-day.html)
 
+## Sunday's X Replies
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love this! 💙</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1784808679679590785?ref_src=twsrc%5Etfw">April 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
+
 # Monday, April 29, 2024
+
+## Awesome Stickers!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awesome stickers! <a href="https://t.co/t0nEUJhPgx">https://t.co/t0nEUJhPgx</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1785028126717759670?ref_src=twsrc%5Etfw">April 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
 
 # Tuesday, April 30, 2024
 
+----
+
 # Wednesday, May 1, 2024
+
+## Wednesday's X Replies
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is so much fun to watch! 😯</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1785741292627988647?ref_src=twsrc%5Etfw">May 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love this one 💙</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1785741625563459587?ref_src=twsrc%5Etfw">May 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
 
 # Thursday, May 2, 2024
 
+## Thursday's X Replies
+
+<blockquote class="twitter-tweet"><p lang="qme" dir="ltr">😍</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1785919934326784407?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
+
 # Friday, May 3, 2024
 
+----
+
 # Saturday, May 4, 2024
+
+Fin.
