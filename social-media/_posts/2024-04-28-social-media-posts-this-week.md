@@ -6,6 +6,7 @@ title: "Social Media Posts This Week: April 28, 2024 - May 4, 2024"
 tags:
   - social media
   - x
+  - twitter
   - art thread day
 ---
 

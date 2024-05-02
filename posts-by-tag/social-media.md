@@ -1,4 +1,4 @@
-{%- assign tag_name = "Genuary 2024" -%}
+{%- assign tag_name = "social media" -%}
 {%- assign tag_match = tag_name | downcase -%}
 
 <h1>Posts by Tag: {{ tag_name }}</h1>
