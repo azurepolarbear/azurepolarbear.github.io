@@ -20,7 +20,7 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trying out 7 new palettes... 👇 <a href="https://twitter.com/hashtag/genart?src=hash&amp;ref_src=twsrc%5Etfw">#genart</a> <a href="https://t.co/vCxxeBzLi6">pic.twitter.com/vCxxeBzLi6</a></p>&mdash; Steve&#39;s Makerspace (@SteveMakerspace) <a href="https://twitter.com/SteveMakerspace/status/1781712804371747237?ref_src=twsrc%5Etfw">April 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### [See the Full Thread](../x/art-thread-day.md)
+### [See the Full Thread](https://azurepolarbear.github.io/social-media/2024-04/2024-04-28/x/art-thread-day.md)
 
 # Monday, April 29, 2024
 
