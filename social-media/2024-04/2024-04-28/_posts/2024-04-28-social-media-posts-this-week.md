@@ -7,18 +7,23 @@ tags:
   - social media
 ---
 
-# Social Media Posts This Week
+# Sunday, April 28, 2024
 
-## Sunday, April 28, 2024
+## Art Thread Day! (X)
 
-## Monday, April 29, 2024
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy Sunday!<br><br>This week was really tough. It was a bad week. 😓<br><br>But I got to scroll through this app and see some beautiful art. This thread is some of my favorites in no particular order. 🧵<br><br>If you are going through a tough time, you&#39;re not alone. I see you and I love you. 🫶🏽</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1784652368904126796?ref_src=twsrc%5Etfw">April 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Tuesday, April 30, 2024
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="zxx" dir="ltr"><a href="https://t.co/WQw9jYob83">https://t.co/WQw9jYob83</a></p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1784652370497917183?ref_src=twsrc%5Etfw">April 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Wednesday, May 1, 2024
 
-## Thursday, May 2, 2024
+# Monday, April 29, 2024
 
-## Friday, May 3, 2024
+# Tuesday, April 30, 2024
 
-## Saturday, May 4, 2024
+# Wednesday, May 1, 2024
+
+# Thursday, May 2, 2024
+
+# Friday, May 3, 2024
+
+# Saturday, May 4, 2024
