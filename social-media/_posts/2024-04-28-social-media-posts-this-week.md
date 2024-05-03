@@ -27,9 +27,12 @@ tags:
   - [Wednesday's X Replies](#wednesdays-x-replies)
 
 [Thursday, May 2, 2024](#thursday-may-2-2024)
+  - [Eye Fatigue is Not Fun](#eye-fatigue-is-not-fun)
+  - [Random Nail Color](#random-nail-color)
   - [Thursday's X Replies](#thursdays-x-replies)
 
 [Friday, May 3, 2024](#friday-may-3-2024)
+  - [Friday's X Replies](#fridays-x-replies)
 
 [Saturday, May 4, 2024](#saturday-may-4-2024)
 
@@ -75,13 +78,27 @@ tags:
 
 # Thursday, May 2, 2024
 
+## Eye Fatigue is Not Fun
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I didn’t really know how eye fatigue felt until last night. It was not fun.<br><br>That’s what I get for staring at screens 18 hours a day. 😂</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1786086676030185753?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Random Nail Color
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What does it say about me that I chose my current nail color with a random color generator?</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1786134855958323693?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Thursday's X Replies
 
 <blockquote class="twitter-tweet"><p lang="qme" dir="ltr">😍</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1785919934326784407?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">Gm 💙</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1786085618600030485?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ----
 
 # Friday, May 3, 2024
+
+## Friday's X Replies
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is so cool! 🔥</p>&mdash; azurepolarbear (@azurepolarbear) <a href="https://twitter.com/azurepolarbear/status/1786427579685061081?ref_src=twsrc%5Etfw">May 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ----
 
