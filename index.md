@@ -23,14 +23,10 @@ available and accessible to all.
 
 ----
 
-## latest social media post
+# generative code art projects
 
-{% for post in site.posts limit:1 %}
-  <h3><a href=".{{ post.url }}">{{ post.title }}</a></h3>
-{% endfor %}
+## [Gradient Graphs](./generative-art/gradient-graphs)
 
-----
+## [Traveling Triangles](./generative-art/traveling-triangles)
 
-## [social media archive](./all-posts.md)
-
-## [archive tags](./all-tags.md)
+## [Color Flow](./generative-art/color-flow)
