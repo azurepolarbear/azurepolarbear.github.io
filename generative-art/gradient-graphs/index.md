@@ -25,4 +25,4 @@ This project was published as a generative NFT collection on May 8, 2022.
 
 On fx(hash), you can explore project variations,
 mint a new variation token,
-or explore the token variations that have been minted in the past.
+or explore the variation tokens that have been minted in the past.
