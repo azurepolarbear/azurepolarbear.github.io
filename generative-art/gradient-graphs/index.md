@@ -11,12 +11,18 @@ with a gradient line and gradient circle that slowly transition from one color t
 Users can interact with the project to remove the nodes, edge lines, or edge circles,
 choosing how they would like the graph to be displayed.
 
-This project was published as a generative NFT collection on May 8, 2022.
-
-### [Mint a Token on fx(hash)](https://www.fxhash.xyz/generative/12566)
+## Sample Variations
 
 ![gradient graphs variation generated on June 21, 2024](../../assets/img/generative-art/gradient-graphs/2024-06-21_01_gradient-graphs.jpg)
 
 ![gradient graphs variation generated on June 21, 2024](../../assets/img/generative-art/gradient-graphs/2024-06-21_02_gradient-graphs.jpg)
 
 ![gradient graphs variation generated on June 21, 2024](../../assets/img/generative-art/gradient-graphs/2023-12-04_01_gradient-graphs.png)
+
+## <a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">See the Project on fx(hash)</a>
+
+This project was published as a generative NFT collection on May 8, 2022.
+
+On fx(hash), you can explore project variations,
+mint a new variation token,
+or explore the token variations that have been minted in the past.
