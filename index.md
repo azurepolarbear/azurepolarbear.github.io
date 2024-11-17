@@ -23,7 +23,7 @@ available and accessible to all.
 
 ----
 
-# azurepolarbear's algorithmic art
+# azurepolarbear's art
 
 ## rainbow waves v2.0
 
