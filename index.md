@@ -23,7 +23,7 @@ available and accessible to all.
 
 ----
 
-# projects
+## projects
 
 [rainbow waves v2.0](https://azurepolarbear.github.io/rainbow-waves/)
 
@@ -35,4 +35,4 @@ available and accessible to all.
 
 ----
 
-[learn to code with brittni](https://blwatkins.github.io/)
+## [learn to code with brittni](https://blwatkins.github.io/)
