@@ -25,7 +25,7 @@ available and accessible to all.
 
 # azurepolarbear's art
 
-## rainbow waves v2.0
+## [rainbow waves v2.0](https://azurepolarbear.github.io/rainbow-waves/)
 
 ## [Color Flow](./generative-art/color-flow)
 
