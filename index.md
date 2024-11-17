@@ -1,3 +1,7 @@
+---
+title: 'home'
+---
+
 # azurepolarbear | code artist
 
 azurepolarbear (sometimes known as brittni watkins) is a generative artist who is
