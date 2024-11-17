@@ -23,16 +23,16 @@ available and accessible to all.
 
 ----
 
-# azurepolarbear's art
+## azurepolarbear's art
 
-## [rainbow waves v2.0](https://azurepolarbear.github.io/rainbow-waves/)
+[rainbow waves v2.0](https://azurepolarbear.github.io/rainbow-waves/)
 
-## [Color Flow](./generative-art/color-flow)
+[color flow](./generative-art/color-flow)
 
-## [Traveling Triangles](./generative-art/traveling-triangles)
+[traveling triangles](./generative-art/traveling-triangles)
 
-## [Gradient Graphs](./generative-art/gradient-graphs)
+[gradient graphs](./generative-art/gradient-graphs)
 
 ----
 
-# [learn to code with brittni](https://blwatkins.github.io/)
+## [learn to code with brittni](https://blwatkins.github.io/)
