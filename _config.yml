@@ -1,7 +1,7 @@
-# Minimal Theme
-remote_theme: pages-themes/minimal@v0.2.0
+# Minima theme configuration
+remote_theme: jekyll/minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 title: azurepolarbear - code artist
 description: (she/her) algorithmic artist making beautiful things with code 💙👩🏽‍💻
