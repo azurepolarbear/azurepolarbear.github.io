@@ -1,4 +1,5 @@
 ---
+layout: 'project'
 project_name: 'gradient graphs'
 project_id: 'gg'
 initial_development_date: ''
