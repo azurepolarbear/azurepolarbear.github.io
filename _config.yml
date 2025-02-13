@@ -18,6 +18,9 @@ minima:
       icon: instagram
       url: "https://instagram.com/azurepolarbear"
 
+header_pages:
+  - index.md
+
 title: azurepolarbear - code artist
 description: (she/her) algorithmic artist making beautiful things with code 💙👩🏽‍💻
 show_downloads: false
