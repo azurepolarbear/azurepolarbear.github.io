@@ -4,10 +4,10 @@ title: 'home'
 
 # azurepolarbear | code artist
 
-azurepolarbear (sometimes known as brittni watkins) is an algorithmic artist
-who is passionate about creating beautiful things with code and creating beautiful code.
-She strives to discover striking visuals that can be created from logic and logical forms,
-such as geometric shapes and mathematical equations.
+azurepolarbear (sometimes known as [brittni watkins](https://blwatkins.github.io/))
+is an algorithmic artist who is passionate about creating beautiful things with code
+and creating beautiful code. She strives to discover striking visuals that can be created
+from logic and logical forms, such as geometric shapes and mathematical equations.
 She takes as much pride in the quality of her code as she does in the output it produces.
 
 With a bachelor’s degree in creative computation, azurepolarbear has been creating art with code
