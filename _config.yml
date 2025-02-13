@@ -25,3 +25,10 @@ header_pages:
 title: azurepolarbear - code artist
 description: algorithmic artist making beautiful things with code 💙👩🏽‍💻
 show_downloads: false
+
+# Collections
+collections_dir: "./collections"
+
+collections:
+  projects:
+    output: true
