@@ -3,6 +3,21 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+# valid social icon names can be found at https://fontawesome.com/search?ic=brands
+
+minima:
+  skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/azurepolarbear"
+    - title: X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/azurepolarbear"
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/azurepolarbear"
+
 title: azurepolarbear - code artist
 description: (she/her) algorithmic artist making beautiful things with code 💙👩🏽‍💻
 logo: "./assets/img/logo.png"
