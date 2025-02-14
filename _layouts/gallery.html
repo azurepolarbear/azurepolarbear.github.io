@@ -8,11 +8,12 @@
   </head>
   <body>
 
+    {%- assign default_width = "250px" -%}
+
     {% for variation in site.variations %}
-      <!-- {%- if variation.project_id == page.project_id -%}
-      <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" width="10%" />
-      {%- endif -%} -->
-    <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" width="10%" />
+      {%- if variation.project_id == page.project_id -%}
+      <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" width="{{ default_width }}" />
+      {%- endif -%}
     {% endfor %}
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
