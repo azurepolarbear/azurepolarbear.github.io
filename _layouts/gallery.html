@@ -8,12 +8,12 @@
   </head>
   <body>
 
-    {%- for variation in page.variations -%}
+    {% for variation in site.variations %}
       <!-- {%- if variation.project_id == page.project_id -%}
       <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" width="10%" />
       {%- endif -%} -->
     <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" width="10%" />
-    {%- endfor -%}
+    {% endfor %}
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
