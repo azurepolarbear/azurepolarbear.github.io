@@ -32,3 +32,5 @@ collections_dir: "./collections"
 collections:
   projects:
     output: true
+  variations:
+    output: true
