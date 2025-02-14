@@ -12,14 +12,14 @@
   </head>
   <body>
 
-    <div class="container m-1 d-block">
+    <div class="container m-3">
       {%- assign default_width = "250px" -%}
 
       {% for variation in site.variations %}
         {%- if variation.project_id == page.project_id -%}
         <img class="float-start m-2 p-2" src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" width="{{ default_width }}" />
         
-        <div class="card float-start m-2 p-2" style="width: 15rem;">
+        <div class="card float-start m-2 p-2 mw-100" style="width: 15rem;">
           <img class="card-img-top" src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" />
           <div class="card-body">
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
