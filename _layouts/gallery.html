@@ -26,9 +26,26 @@
         <div class="col"></div>
       </div>
       <div class="row gx-5">
-
+        <div class="col"></div>
+        <div class="col p-3">
+          {% for variation in site.variations %}
+            {%- if variation.project_id == page.project_id -%}
+            <div class="card m-2 p-2" style="width: 10rem;">
+              <img class="card-img-top" src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" />
+              <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+            </div>
+            {%- endif -%}
+          {% endfor %}
+        </div>
+        <div class="col"></div>
       </div>
     </div>
+
+    <hr/>
+    <hr/>
+    <hr/>
 
     <div class="container m-3">
       {% for variation in site.variations %}
