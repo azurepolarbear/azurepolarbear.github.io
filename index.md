@@ -33,4 +33,8 @@ coming soon to an internet connection near you!
 
 ----
 
+## [projects](./projects.md)
+
+----
+
 #### Fin.
