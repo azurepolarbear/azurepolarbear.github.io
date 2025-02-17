@@ -54,11 +54,11 @@
       </div>
       {%- assign col_total = 4 -%}
       {%- assign count = 0 -%}
-      <div class="row">
+      <div class="row py-2">
         <div class="col">
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
-            <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" style="width: 15rem;"/>
+            <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}"/>
             {%- endif -%}
           {% endfor %}
         </div>
