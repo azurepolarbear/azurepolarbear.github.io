@@ -74,6 +74,17 @@
             {%- endif -%}
           {% endfor %}
         </div>
+
+        <div class="column px-2">
+          {%- assign col = 4 -%}
+          {% for variation in site.variations %}
+            {%- if variation.project_id == page.project_id -%}
+              {%- if variation.column == col -%}
+              <img class="py-2" src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}"/>
+              {%- endif -%}
+            {%- endif -%}
+          {% endfor %}
+        </div>
       </div>
     </div>
 
