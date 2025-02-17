@@ -58,7 +58,7 @@
           {%- assign col = 0 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
-              {%- if variation.column = col -%}
+              {%- if variation.column == col -%}
               <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" style="width: 15rem;"/>
               {%- endif -%}
             {%- endif -%}
@@ -69,7 +69,7 @@
           {%- assign col = 1 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
-              {%- if variation.column = col -%}
+              {%- if variation.column == col -%}
               <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" style="width: 15rem;"/>
               {%- endif -%}
             {%- endif -%}
@@ -80,7 +80,7 @@
           {%- assign col = 2 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
-              {%- if variation.column = col -%}
+              {%- if variation.column == col -%}
               <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" style="width: 15rem;"/>
               {%- endif -%}
             {%- endif -%}
@@ -91,7 +91,7 @@
           {%- assign col = 3 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
-              {%- if variation.column = col -%}
+              {%- if variation.column == col -%}
               <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" style="width: 15rem;"/>
               {%- endif -%}
             {%- endif -%}
