@@ -58,7 +58,7 @@
         <div class="col">
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
-            <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" />
+            <img src="{{ variation.id | relative_url }}.png" alt="{{ variation.variation_name }}" style="width: 15rem;"/>
             {%- endif -%}
           {% endfor %}
         </div>
