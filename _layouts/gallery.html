@@ -37,7 +37,7 @@
       </div>
       {%- assign col_total = 4 -%}
       <div class="row py-2">
-        <div class="col">
+        <div class="column">
           {%- assign col = 0 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
@@ -48,7 +48,7 @@
           {% endfor %}
         </div>
 
-        <div class="col">
+        <div class="column">
           {%- assign col = 1 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
@@ -59,7 +59,7 @@
           {% endfor %}
         </div>
 
-        <div class="col">
+        <div class="column">
           {%- assign col = 2 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
@@ -70,7 +70,7 @@
           {% endfor %}
         </div>
 
-        <div class="col">
+        <div class="column">
           {%- assign col = 3 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
