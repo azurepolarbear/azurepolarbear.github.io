@@ -28,6 +28,7 @@
       <div class="row gx-5">
         <div class="col"></div>
         <div class="col d-flex p-3 justify-content-around">
+          {%- assign col_total = 4 -%}
           {%- assign count = 1 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
