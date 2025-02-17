@@ -22,5 +22,3 @@ group :jekyll_plugins do
     gem "kramdown-parser-gfm"
     gem "jekyll-minima"
 end
-
-# gem "minima"
