@@ -28,6 +28,7 @@
       <div class="row gx-5">
         <div class="col"></div>
         <div class="col d-flex p-3 justify-content-around">
+          {%- assign count = 1 -%}
           {% for variation in site.variations %}
             {%- if variation.project_id == page.project_id -%}
             <div class="card m-2 p-2" style="width: 10rem;">
@@ -36,6 +37,8 @@
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
             </div>
+            {%- assign count = count | plus: 1 -%}
+            <p>{{ count }}</p>
             {%- endif -%}
           {% endfor %}
           <!-- <div class="invisible float-start" style="width: 40rem; max-width: 100dvw;">placeholder</div> -->
