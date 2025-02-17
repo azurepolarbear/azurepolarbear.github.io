@@ -19,10 +19,19 @@
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
        }
+
+       .column {
+        grid-column: span 3;
+        width: auto;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        gap: 1.25rem;
+       }
     </style>
   </head>
   <body>
-    <div class="container-fluid">
+    <div class="container-xxl py-2">
       <div class="heading py-4 text-center">
         <h1 class="text-purple">{{ page.title }}</h1>
       </div>
