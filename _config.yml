@@ -34,3 +34,7 @@ collections:
     output: true
   variations:
     output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
