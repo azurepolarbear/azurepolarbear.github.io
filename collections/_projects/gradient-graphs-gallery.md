@@ -1,5 +1,5 @@
 ---
 layout: 'gallery'
 title: 'gradient graphs gallery'
-project_id: 'gg'
+project_id: 'gradient-graphs'
 ---
