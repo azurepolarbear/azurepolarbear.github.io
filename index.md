@@ -25,15 +25,33 @@ inspire and encourage others to learn how to program and explore
 the amazing capabilities of code. Her philosophy is that art, art education,
 and computer science education should be available and accessible to all.
 
-You can purchase stationery and gifts featuring azurepolarbear's work
-in the **brittni and the polar bear | code + art boutique**,
-coming soon to an internet connection near you!
+The applications of computer programming are numerous and varied; there is space for everyone.
 
-***The applications of computer programming are numerous and varied; there is space for everyone.***
+You can purchase stationery and gifts featuring azurepolarbear's work
+in the [brittni and the polar bear | code + art boutique](https://brittniandthepolarbear.com/).
+
+***There is beauty in code, and code can make beautiful things.***
 
 ----
 
 ## [projects](./projects.md)
+
+----
+
+## donate
+
+We are currently accepting donations to support our creative projects.
+
+<div style="text-align: center;">
+  <p>
+    <a href="https://www.buymeacoffee.com/brittniandthepolarbear"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=brittniandthepolarbear&button_colour=8828dc&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+  </p>
+
+  <p>
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '8828dc', 'O5O717Q6YA');kofiwidget2.draw();</script>
+  </p>
+<br/>
+</div>
 
 ----
 
