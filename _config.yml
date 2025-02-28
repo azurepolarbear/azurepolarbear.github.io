@@ -32,8 +32,6 @@ show_downloads: false
 collections_dir: "./collections"
 
 collections:
-  posts:
-    output: true
   projects:
     output: true
   variations:
