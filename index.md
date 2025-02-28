@@ -39,14 +39,6 @@ in the [brittni and the polar bear | code + art boutique](https://brittniandthep
 
 ----
 
-## posts
-
-{% for post in site.posts limit:1 %}
-<h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
-{% endfor %}
-
-----
-
 ## donate
 
 We are currently accepting donations to support our creative projects.
