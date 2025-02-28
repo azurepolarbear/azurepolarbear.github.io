@@ -1,6 +1,8 @@
 ---
 layout: post
+author: "azurepolarbear"
 title: "How do you make art with code?"
+date: 2025-02-26 00:00:00 -0000
 ---
 
 What is code?

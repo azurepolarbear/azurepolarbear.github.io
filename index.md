@@ -1,5 +1,6 @@
 ---
 title: 'home'
+layout: home
 ---
 
 # azurepolarbear | code artist
@@ -35,6 +36,14 @@ in the [brittni and the polar bear | code + art boutique](https://brittniandthep
 ----
 
 ## [projects](./projects.md)
+
+----
+
+## posts
+
+{% for post in site.posts limit:1 %}
+<h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
+{% endfor %}
 
 ----
 

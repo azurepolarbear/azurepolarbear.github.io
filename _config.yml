@@ -21,6 +21,7 @@ minima:
 header_pages:
   - index.md
   - projects.md
+  - posts.md
 
 title: azurepolarbear - code artist
 description: algorithmic artist making beautiful things with code
