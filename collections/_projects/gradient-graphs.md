@@ -10,13 +10,24 @@ project_release_date: ''
 In graph theory, a gabriel graph is a graph where an edge can only be formed between two nodes if the circle formed by those two nodes does not overlap any other nodes.
 A random geometric graph is a graph where an edge can only be formed between two nodes
 if they are less than a certain distance away from each other.
+
+*gradient graphs* is an original code art algorithm; each run of the code produces a random visual output.
 The *gradient graphs* program generates random gabriel graphs and random geometric graphs,
 where the graphs have a random number of nodes and each node has a random position and color.
 Nodes are connected by lines and circles that have a gradient from one point color to the other.
+
 Users can interact with the project to remove the nodes, edge lines, or edge circles,
 choosing how they would like the graph to be displayed.
 
-# <a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">See the Project on fx(hash)</a>
+*gradient graphs* was created with JavaScript and p5.js.
+
+This code and its output are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+
+Copyright (C) 2022-2025 brittni and the polar bear LLC. Some rights reserved.
+
+----
+
+## <a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">See the Project on fx(hash)</a>
 
 This project was published as a generative NFT collection on May 8, 2022.
 
@@ -24,7 +35,17 @@ On fx(hash), you can explore project variations, mint a new variation token, or 
 
 ----
 
-# Shop gradient graphs
+## interaction instructions
+
+Press 'a' to toggle the edge circles on and off.
+
+Press 's' to toggle the edge lines on and off.
+
+Press 'd' to toggle the nodes on and off.
+
+----
+
+# shop gradient graphs
 
 <!-- Shopify buy buttons -->
 <div id='collection-component-1740865156445'></div>
