@@ -7,6 +7,10 @@ initial_development_date: ''
 project_release_date: ''
 ---
 
+----
+
+# Shop gradient graphs
+
 <!-- Shopify buy buttons -->
 <div id='collection-component-1740865156445'></div>
 <script type="text/javascript">
@@ -207,3 +211,10 @@ project_release_date: ''
 })();
 /*]]>*/
 </script>
+<br/>
+
+Powered by Shopify.
+
+----
+
+### Fin.
