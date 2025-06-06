@@ -20,25 +20,19 @@ Users can interact with the project to remove the nodes, edge lines, or edge cir
 
 This code and its output are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-Copyright (C) 2022-2025 brittni and the polar bear LLC. Some rights reserved.
+Copyright (C) 2022-2025 brittni and the polar bear LLC.
 
 ----
 
-<h2><a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">See gradient graphs on fx(hash).</a></h2>
+<h2><a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">see gradient graphs on fx(hash)</a></h2>
 
-This project was published as a generative NFT collection on May 8, 2022.
+*gradient graphs* was published as a generative NFT collection on May 8, 2022.
 
 On fx(hash), you can explore project variations, mint a new variation token, or explore the variation tokens that have been minted in the past.
 
 ----
 
-## interaction instructions
-
-Press 'a' to toggle the edge circles on and off.
-
-Press 's' to toggle the edge lines on and off.
-
-Press 'd' to toggle the nodes on and off.
+<h2><a href="https://github.com/azurepolarbear/gradient-graphs/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">see the gradient graphs source code</a></h2>
 
 ----
 
