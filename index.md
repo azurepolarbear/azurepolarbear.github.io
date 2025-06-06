@@ -37,6 +37,10 @@ in the [brittni and the polar bear | code + art boutique](https://brittniandthep
 
 ## [projects](./projects.md)
 
+### > [gradient graphs](./projects/gradient-graphs.html)
+
+### > [parallel lines](./projects/parallel-lines.html)
+
 ----
 
 ## donate
@@ -53,7 +57,3 @@ We are currently accepting donations to support our creative projects.
   </p>
 <br/>
 </div>
-
-----
-
-#### Fin.
