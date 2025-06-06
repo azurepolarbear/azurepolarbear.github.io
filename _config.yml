@@ -7,6 +7,7 @@ plugins:
 
 minima:
   skin: auto
+  hide_site_feed_link: true
   social_links:
     - title: GitHub
       icon: github
@@ -14,13 +15,36 @@ minima:
     - title: X (formerly Twitter)
       icon: x-twitter
       url: "https://x.com/azurepolarbear"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/azurepolarbear.bsky.social"
+    - title: Threads
+      icon: threads
+      url: "https://www.threads.com/@azurepolarbear"
     - title: Instagram
       icon: instagram
       url: "https://instagram.com/azurepolarbear"
-
-header_pages:
-  - index.md
-  - projects.md
+    - title: Facebook
+      icon: facebook
+      url: "https://www.facebook.com/azurepolarbear"
+    - title: TikTok
+      icon: tiktok
+      url: "https://tiktok.com/@azurepolarbear"
+    - title: Pinterest
+      icon: pinterest
+      url: "https://www.pinterest.com/azurepolarbear"
+    - title: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/channel/UCj9W4cbmVUJqtZbwqJdopKA"
+    - title: Twitch
+      icon: twitch
+      url: "https://www.twitch.tv/brittniandthepolarbear"
+    - title: Store
+      icon: shopify
+      url: "https://brittniandthepolarbear.com/"
+  nav_pages:
+    - index.md
+    - projects.md
 
 title: azurepolarbear - code artist
 description: algorithmic artist making beautiful things with code
@@ -39,3 +63,4 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
