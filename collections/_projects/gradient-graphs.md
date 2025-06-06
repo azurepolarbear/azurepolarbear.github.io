@@ -18,7 +18,8 @@ Users can interact with the project to remove the nodes, edge lines, or edge cir
 
 *gradient graphs* was created with JavaScript and p5.js.
 
-This code and its output are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This code and its output are licensed under the
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License</a>.
 
 Copyright (C) 2022-2025 brittni and the polar bear LLC.
 
