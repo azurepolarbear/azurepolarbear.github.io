@@ -3,31 +3,28 @@ layout: 'project'
 title: 'gradient graphs'
 project_name: 'gradient graphs'
 project_id: 'gradient-graphs'
-initial_development_date: ''
-project_release_date: ''
+initial_development_date: 2022-02-23
+project_release_date: 2022-05-08
 ---
 
 In graph theory, a gabriel graph is a graph where an edge can only be formed between two nodes if the circle formed by those two nodes does not overlap any other nodes.
-A random geometric graph is a graph where an edge can only be formed between two nodes
-if they are less than a certain distance away from each other.
+A random geometric graph is a graph where an edge can only be formed between two nodes if they are less than a certain distance away from each other.
 
 *gradient graphs* is an original code art algorithm; each run of the code produces a random visual output.
-The *gradient graphs* program generates random gabriel graphs and random geometric graphs,
-where the graphs have a random number of nodes and each node has a random position and color.
+The *gradient graphs* program generates random gabriel graphs and random geometric graphs, where the graphs have a random number of nodes and each node has a random position and color.
 Nodes are connected by lines and circles that have a gradient from one point color to the other.
 
-Users can interact with the project to remove the nodes, edge lines, or edge circles,
-choosing how they would like the graph to be displayed.
+Users can interact with the project to remove the nodes, edge lines, or edge circles, choosing how they would like the graph to be displayed.
 
 *gradient graphs* was created with JavaScript and p5.js.
 
-This code and its output are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+This code and its output are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 Copyright (C) 2022-2025 brittni and the polar bear LLC. Some rights reserved.
 
 ----
 
-## <a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">See the Project on fx(hash)</a>
+<h2><a href="https://www.fxhash.xyz/generative/12566" target="_blank" rel="noopener noreferrer">See gradient graphs on fx(hash).</a></h2>
 
 This project was published as a generative NFT collection on May 8, 2022.
 
@@ -45,7 +42,8 @@ Press 'd' to toggle the nodes on and off.
 
 ----
 
-# shop gradient graphs
+## shop gradient graphs
+<br/>
 
 <!-- Shopify buy buttons -->
 <div id='collection-component-1740865156445'></div>
@@ -250,7 +248,3 @@ Press 'd' to toggle the nodes on and off.
 <br/>
 
 Powered by Shopify.
-
-----
-
-### Fin.
